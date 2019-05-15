@@ -21,3 +21,31 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Hospital/.classpath
+Hospital/.project
+Hospital/.settings/.jsdtscope
+Hospital/.settings/org.eclipse.jdt.core.prefs
+Hospital/.settings/org.eclipse.m2e.core.prefs
+Hospital/.settings/org.eclipse.wst.common.component
+Hospital/.settings/org.eclipse.wst.jsdt.ui.superType.container
+Hospital/.settings/org.eclipse.wst.jsdt.ui.superType.name
+Hospital/.settings/org.eclipse.wst.validation.prefs
+Hospital/.settings/org.hibernate.eclipse.console.prefs
+Hospital/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+Hospital/target/m2e-wtp/web-resources/META-INF/maven/com.hospital.project/Hospital/pom.properties
+Hospital/target/m2e-wtp/web-resources/META-INF/maven/com.hospital.project/Hospital/pom.xml
+.metadata/.lock
+.metadata/version.ini
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.11.0.20190220-2119.xml
+/.metadata/
+Servers/Tomcat v9.0 Server at localhost-config/web.xml
+Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml
+Servers/Tomcat v9.0 Server at localhost-config/server.xml
+Servers/Tomcat v9.0 Server at localhost-config/context.xml
+Servers/Tomcat v9.0 Server at localhost-config/catalina.properties
+Servers/Tomcat v9.0 Server at localhost-config/catalina.policy
+Servers/.settings/org.eclipse.wst.server.core.prefs
+Servers/.project
+RemoteSystemsTempFiles/.project
+Hospital/target/m2e-wtp/web-resources/.gitignore
